@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <about>
     <category>Магазин</category>
-    <fn_org>Блокнот</fn_org>
+    <fn_org>Примеры XML</fn_org>
     <adr>
         <locality>г. Екатеринбург</locality>
-        <street-addres>Куйбышева, 53</street-addres>
+        <street-addres>Ленина, 1</street-addres>
     </adr>
-    <tel>+7 (343) 321-45-67</tel>
+    <tel>8 (800) 123-45-67</tel>
     <workhours>
         ежедневно с 10 до 19
     </workhours>
