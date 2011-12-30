@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<goods>
+    <good>
+        <name>Тетрадь 23 листа, клетка</name>
+        <url>http://example.com/kancelyarskie_tovary/tetrad_23_lista_kletka.html</url>
+        <price>
+            <value>12.5</value>
+            <currency>RUR</currency>
+        </price>
+        <vendor>Московский завод тетрадей</vendor>
+        <description>
+            Крутая, просто очень крутая тетрадь, которая будет радовать вас и ваших близких.
+        </description>
+    </good>
+    <good>
+        <name>MP3-плеер Sony</name>
+        <url>http://example.com/bytovaya_tehnika/mp3_player_sony.html</url>
+        <price>
+            <value>4900</value>
+            <currency>RUR</currency>
+        </price>
+        <vendor>SONY</vendor>
+        <description>
+            Плеер, который изменит вашу жизнь до неузнаваемости.
+        </description>
+    </good>
+</goods>

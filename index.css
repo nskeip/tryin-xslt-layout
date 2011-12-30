@@ -1,0 +1,12 @@
+html {
+    font-family: Tahoma, sans-serif;
+}
+
+.page__h1 {
+    color: #ccc;
+    font: 36px Tahoma, sans-serif;
+}
+
+.vcard_about__div, .goods__div {
+    color: #444;
+}
